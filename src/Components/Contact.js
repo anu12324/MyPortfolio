@@ -13,12 +13,13 @@ const Contact = () => {
                 <div className='contact-icon'
                     data-aos="zoom-in-up"
                     data-aos-duration="1000">
-                    <a href='https://www.google.com' target='_blank' className='items'><FaInstagram className='icons' /></a>
+                    <a href='https://www.instagram.com' target='_blank' className='items'><FaInstagram className='icons' /></a>
                     <a href='https://www.facebook.com' target='_blank' className='items'><CiFacebook className='icons' /></a>
                     <a href='https://in.linkedin.com' target='_blank' className='items'><CiLinkedin className='icons' /></a>
                     <a href='https://www.twitter.com' target='_blank' className='items'><FaSquareXTwitter className='icons' /></a>
                     <a href='https://www.github.com' target='_blank' className='items'><FaGithubSquare className='icons' /></a>
-                    <a href='mailto:anuragg2053@gmail.com' target='_blank' className='items'><SiGmail className='icons' /></a>
+                    <a href='https://mail.google.com' target='_blank' className='items'><SiGmail className='icons' /></a>
+                    {/* <a href='mailto:anuragg2053@gmail.com' target='_blank' className='items'><SiGmail className='icons' /></a> */}
                 </div>
             </div>
         </>

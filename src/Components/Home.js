@@ -10,7 +10,7 @@ const Home = () => {
     useEffect(() => {
 
         const options = {
-            strings: ["Welcome to my profile", "My name is John Doe", "I'm full Stack Developer", "Android Developer (React Native)"],
+            strings: ["Welcome to my profile.", "My name is Anurag Gupta.", "I'm a Full Stack Developer,", "Frontend Developer,", "React Developer."],
             typeSpeed: 50,
             backSpeed: 50,
             loop: true
