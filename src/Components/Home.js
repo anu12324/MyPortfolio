@@ -10,7 +10,7 @@ const Home = () => {
     useEffect(() => {
 
         const options = {
-            strings: ["Welcome to my profile.", "My name is Anurag Gupta.", "I'm a Full Stack Developer,", "Frontend Developer,", "Backend Developer", "React Developer."],
+            strings: ["Welcome to my profile.", "My name is Anurag Gupta.", "I'm a Full Stack Developer,", "Frontend Developer,", "Backend Developer,", "React Developer."],
             typeSpeed: 50,
             backSpeed: 50,
             loop: true
@@ -29,9 +29,9 @@ const Home = () => {
                 <div className='left'
                     data-aos="fade-up-right"
                     data-aos-duration="1000">
-                    {/* <h1 ref={typedRef}>
-                        I am a Backend Developer.
-                    </h1> */}
+                    <h1 ref={typedRef}>
+                        .
+                    </h1>
                     <a href={resume} download="ReactResume.pdf" className='btn btn-outline-warning my-3'>Download Resume</a>
                 </div>
                 <div className='right'>
