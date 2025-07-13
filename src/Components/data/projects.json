@@ -2,33 +2,25 @@
     {
         "key": 1,
         "title": "React Animated Portfolio",
-        "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+        "imageSrc": "projects/portfolio.jpeg",
         "description": "This is an animated portfolio made with complete React js.",
-        "demo": "https://www.example.com",
-        "source": "https://github.com/anu12324/React_animated_portfolio"
+        "demo": "https://my-portfolio-teal-two-26.vercel.app",
+        "source": "https://github.com/anu12324/MyPortfolio"
     },
     {
         "key": 2,
-        "title": "MERN Blogging",
-        "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-        "description": "This is a project made with complete React js.",
-        "demo": "https://www.example.com",
-        "source": "https://github.com/anu12324/React_animated_portfolio"
+        "title": "Pokeman Kingdom",
+        "imageSrc": "projects/pokeman.jpeg",
+        "description": "This is a Pokeman Kingdom project made with complete React js.",
+        "demo": "https://pokman-kingdom.vercel.app",
+        "source": "https://github.com/anu12324/PokmanKingdom"
     },
     {
         "key": 3,
-        "title": "React Recipe",
-        "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-        "description": "This is a project made with complete React js.",
+        "title": "Event Management System",
+        "imageSrc": "projects/event.webp",
+        "description": "Creating an Event Management System using the MERN stack.",
         "demo": "https://www.example.com",
-        "source": "https://github.com/anu12324/React_animated_portfolio"
-    },
-    {
-        "key": 4,
-        "title": "React Firebase App",
-        "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-        "description": "This is a project made with complete React js.",
-        "demo": "https://www.example.com",
-        "source": "https://github.com/anu12324/React_animated_portfolio"
+        "source": "https://github.com/anu12324/Event_management_system"
     }
 ]

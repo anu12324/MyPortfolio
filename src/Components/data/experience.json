@@ -1,41 +1,41 @@
 [
     {
         "id": 1,
-        "role": "Senior Software Development Engineer SDE - II",
-        "organisation": "Google",
-        "startDate": "Sept, 2023",
+        "role": "Software Developer",
+        "organisation": "Zenith forex online pvt ltd.",
+        "startDate": "August, 2023",
         "endDate": "Present",
-        "location": "CA,United State",
+        "location": "Rajendra Place, New Delhi Head Office",
         "experiences": [
-            "Worked on Google Gmail",
-            "Worked with the Google Bard Team"
+            "Developed a comprehensive foreign exchange website from scratch to production that increased forex leads by 35%, eliminating monthly fees of rented website, resulting in annual savings of 10L.",
+            "Developed a Career Page for multiple job openings through which company can open multiple job positions in company's website."
         ],
-        "imageSrc": "company/google.png"
+        "imageSrc": "company/zenithforexonline.png"
     },
     {
         "id": 2,
-        "role": "Software Development Engineer SDE - I",
-        "organisation": "Mirosoft",
-        "startDate": "Aug, 2022",
-        "endDate": "Aug, 2023",
-        "location": "London, UK",
+        "role": "Software Developer",
+        "organisation": "Zenith forex online pvt ltd.",
+        "startDate": "Aug, 203",
+        "endDate": "Present",
+        "location": "Rajendra Place, New Delhi Head Office",
         "experiences": [
-            "Worked on Windows 10 terminal",
-            "Worked on Window 11 Upcoming features"
+            "Developed an ERP Web Application for Data Entry and Report Management using PHP (or React, if applicable), HTML, CSS, and MySQL. Implemented modules for secure CRUD operations, dynamic form entries, and auto-generated reports with filtering, sorting, and export options. Ensured clean UI/UX design and optimized database queries for performance.",
+            "Integrated user login and role-based access control to manage permissions for admins, managers, and staff."
         ],
-        "imageSrc": "company/microsoft.png"
+        "imageSrc": "company/zenithforexonline.png"
     },
     {
         "id": 3,
-        "role": "Software Development Engineer - Intern",
-        "organisation": "Netflix",
-        "startDate": "Apr, 2021",
-        "endDate": "Jun, 2022",
-        "location": "Bengluru, India",
+        "role": "Software Developer",
+        "organisation": "Zenith forex online pvt ltd.",
+        "startDate": "August, 2023",
+        "endDate": "Present",
+        "location": "Rajendra Place, New Delhi Head Office",
         "experiences": [
-            "Worked on Nextflix payment system",
-            "Helped to create UI for video player"
+            "This web application is designed for a forex company to manage international remittances via Telegraphic Transfer (TT). It enables agents and admins to process money transfers securely, handle compliance requirements, manage customers, and generate reports.",
+            "Admin Control Panel Manage branches, users, rates, KYC settings, and audit logs from a centralized dashboard."
         ],
-        "imageSrc": "company/netflix.png"
+        "imageSrc": "company/zenithforexonline.png"
     }
 ]

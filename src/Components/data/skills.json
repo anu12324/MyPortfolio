@@ -34,5 +34,9 @@
     {
         "title": "MongoDB",
         "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
     }
 ]
