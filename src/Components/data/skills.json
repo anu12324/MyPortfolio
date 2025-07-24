@@ -20,6 +20,10 @@
         "imageSrc": "skills/node.png"
     },
     {
+        "title": "Express Js",
+        "imageSrc": "skills/express.png"
+    },
+    {
         "title": "Mysql",
         "imageSrc": "skills/mysql.png"
     },
@@ -28,7 +32,7 @@
         "imageSrc": "skills/postgresql.png"
     },
     {
-        "title": "Php",
+        "title": "PHP",
         "imageSrc": "skills/php.png"
     },
     {
