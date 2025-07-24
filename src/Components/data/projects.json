@@ -1,17 +1,17 @@
 [
     {
         "key": 1,
-        "title": "React Animated Portfolio",
-        "imageSrc": "projects/portfolio.jpeg",
-        "description": "This is an animated portfolio made with complete React js.",
-        "demo": "https://my-portfolio-teal-two-26.vercel.app",
-        "source": "https://github.com/anu12324/MyPortfolio"
+        "title": "Information form with Login and Registration",
+        "imageSrc": "projects/info.webp",
+        "description": "This is a login form with registration and you can add Information made with React, Node, PostgreSQL.",
+        "demo": "https://info-form-with-login-register.onrender.com",
+        "source": "https://github.com/anu12324/Info_form_with_login_register"
     },
     {
         "key": 2,
         "title": "Pokeman Kingdom",
         "imageSrc": "projects/pokeman.jpeg",
-        "description": "This is a Pokeman Kingdom project made with complete React js.",
+        "description": "This is a Pokeman Kingdom project made with complete React js and Bootstrap.",
         "demo": "https://pokman-kingdom.vercel.app",
         "source": "https://github.com/anu12324/PokmanKingdom"
     },
