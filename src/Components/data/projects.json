@@ -9,14 +9,6 @@
     },
     {
         "key": 2,
-        "title": "Information form with Login and Registration",
-        "imageSrc": "projects/info.webp",
-        "description": "This is a login form with registration and you can add Information made with React, Node, PostgreSQL.",
-        "demo": "https://info-form-with-login-register.onrender.com",
-        "source": "https://github.com/anu12324/Info_form_with_login_register"
-    },
-    {
-        "key": 3,
         "title": "Pokeman Kingdom",
         "imageSrc": "projects/pokeman.jpeg",
         "description": "This is a Pokeman Kingdom project made with complete React js and Bootstrap.",
@@ -24,7 +16,23 @@
         "source": "https://github.com/anu12324/PokmanKingdom"
     },
     {
+        "key": 3,
+        "title": "Image Generator",
+        "imageSrc": "projects/image-generator.avif",
+        "description": "This is a Image Generator project made with React js, Bootstrap, Node js and Express js.",
+        "demo": "https://image-generator-0nba.onrender.com",
+        "source": "https://github.com/anu12324/Image-generator"
+    },
+    {
         "key": 4,
+        "title": "Information form",
+        "imageSrc": "projects/info.webp",
+        "description": "This is a Information form with login and registration functionality and you can add Information made with React, Node, PostgreSQL.",
+        "demo": "https://info-form-with-login-register.onrender.com",
+        "source": "https://github.com/anu12324/Info_form_with_login_register"
+    },
+    {
+        "key": 5,
         "title": "Event Management System",
         "imageSrc": "projects/event.webp",
         "description": "Creating an Event Management System using the MERN stack.",
