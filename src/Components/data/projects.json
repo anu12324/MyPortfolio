@@ -27,7 +27,7 @@
         "key": 4,
         "title": "Information form",
         "imageSrc": "projects/info.webp",
-        "description": "This is a Information form with login and registration and you can add Information made with React, Node, PostgreSQL.",
+        "description": "Information form with login and registration and you can add Information made with PERN stack.",
         "demo": "https://info-form-with-login-register.onrender.com",
         "source": "https://github.com/anu12324/Info_form_with_login_register"
     },
