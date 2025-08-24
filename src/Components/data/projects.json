@@ -34,7 +34,7 @@
     {
         "key": 5,
         "title": "Employee Management System",
-        "imageSrc": "projects/employee-mgmt.jpeg",
+        "imageSrc": "projects/employee-mgmt.jpg",
         "description": "Creating an Employee Management System using the MERN stack.",
         "demo": "https://www.example.com",
         "source": "https://github.com/anu12324/Employee_management_system"
