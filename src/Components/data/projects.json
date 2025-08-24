@@ -27,16 +27,16 @@
         "key": 4,
         "title": "Information form",
         "imageSrc": "projects/info.webp",
-        "description": "This is a Information form with login and registration functionality and you can add Information made with React, Node, PostgreSQL.",
+        "description": "This is a Information form with login and registration and you can add Information made with React, Node, PostgreSQL.",
         "demo": "https://info-form-with-login-register.onrender.com",
         "source": "https://github.com/anu12324/Info_form_with_login_register"
     },
     {
         "key": 5,
-        "title": "Event Management System",
-        "imageSrc": "projects/event.webp",
-        "description": "Creating an Event Management System using the MERN stack.",
+        "title": "Employee Management System",
+        "imageSrc": "projects/employee-mgmt.jpeg",
+        "description": "Creating an Employee Management System using the MERN stack.",
         "demo": "https://www.example.com",
-        "source": "https://github.com/anu12324/Event_management_system"
+        "source": "https://github.com/anu12324/Employee_management_system"
     }
 ]
