@@ -1,6 +1,14 @@
 [
     {
         "key": 1,
+        "title": "React AI Chat bot",
+        "imageSrc": "projects/ai-chatbot.jpg",
+        "description": "This is a React AI Chat Bot like ChatGPT made with React and Tailwind CSS",
+        "demo": "https://react-ai-tool-33f28of8x-anurag-kumar-guptas-projects-a48e9988.vercel.app/",
+        "source": "https://github.com/anu12324/react-ai-tool"
+    },
+    {
+        "key": 2,
         "title": "Information form with Login and Registration",
         "imageSrc": "projects/info.webp",
         "description": "This is a login form with registration and you can add Information made with React, Node, PostgreSQL.",
@@ -8,7 +16,7 @@
         "source": "https://github.com/anu12324/Info_form_with_login_register"
     },
     {
-        "key": 2,
+        "key": 3,
         "title": "Pokeman Kingdom",
         "imageSrc": "projects/pokeman.jpeg",
         "description": "This is a Pokeman Kingdom project made with complete React js and Bootstrap.",
@@ -16,7 +24,7 @@
         "source": "https://github.com/anu12324/PokmanKingdom"
     },
     {
-        "key": 3,
+        "key": 4,
         "title": "Event Management System",
         "imageSrc": "projects/event.webp",
         "description": "Creating an Event Management System using the MERN stack.",
